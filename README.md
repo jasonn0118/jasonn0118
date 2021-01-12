@@ -1,8 +1,5 @@
 ### Hi there, I'm Jason👋
 
-[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/jasonshin0118/)](https://linkedin.com/in/jasonshin0118/)
-
-
 ## I'm a Front-End Developer!!
 
 - 🔭 I'm a passionate and excited to solve problem. 
