@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linkedin.com/in/jasonshin0118/)
+[![Website](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/jasonshin0118/)](https://linkedin.com/in/jasonshin0118/)
 
 
 ## I'm a Front-End Developer!!
@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jason's GitHub Stats" src="https://github-readme-stats.jasonn0118.vercel.app/api?username=jasonn0118&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonn0118&count_private=true&show_icons=true&theme=radical)](https://github.com/jasonn0118)
 
 </details>
 
