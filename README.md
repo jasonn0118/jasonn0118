@@ -5,7 +5,7 @@
 - 🔭 I'm a passionate and excited to solve problem. 
 - 🌱 I’m currently focus to learn ASP.NET core and deeply understand on JavaScript and React Framework :satisfied:
 - :flushed: I’m actively looking for a job that I'll make all my effort! :sunglasses:
-- 🥅 2021 Goals: Challenge private project & Contribute to Open Source projects
+- 🥅 2023 Goals: Challenge private project & focus on quality of codes
 - :mortar_board: Expected Graduation date from Douglas college is Feb. 2021 
 - ⚡ Fun fact: I love to take picture, workout, and surf :surfer:
 
@@ -13,7 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Jasonn0118 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jasonn0118 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -45,4 +44,3 @@
 </details>
 
 [instagram]: https://instagram.com/jasonn_dev/
-[linkedin]: https://linkedin.com/in/jasonshin0118/
