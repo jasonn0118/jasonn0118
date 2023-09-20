@@ -13,7 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Jasonn0118 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -43,4 +42,4 @@
 
 </details>
 
-[instagram]: https://instagram.com/jasonn_dev/
+[linkedin]: https://linkedin.com/in/jasonshin0118
