@@ -3,10 +3,9 @@
 ## I'm a Software Developer!!
 
 - 🔭 I'm a passionate and excited to solve problem. 
-- 🌱 I’m currently focus to learn ASP.NET core and deeply understand on JavaScript and React Framework :satisfied:
+- 🌱 I’m currently focus to learn ASP.NET core and deeply understand on JavaScript, React and Nextjs :satisfied:
 - :flushed: I’m actively looking for a job that I'll make all my effort! :sunglasses:
 - 🥅 2023 Goals: Challenge private project & focus on quality of codes
-- :mortar_board: Expected Graduation date from Douglas college is Feb. 2021 
 - ⚡ Fun fact: I love to take picture, workout, and surf :surfer:
 
 
