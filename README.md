@@ -13,7 +13,7 @@
 <br />
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,rails,nestjs,dotnet,postgres,mongodb,netlify,aws,redis,sentry )](https://skillicons.dev)
 
 <br />
 <br />
