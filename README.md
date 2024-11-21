@@ -3,7 +3,6 @@
 ## I'm a Software Developer!!
 
 - 🔭 I'm a passionate and excited to solve problem. 
-- :flushed: Currently Work at Rennie :sunglasses:
 - 🥅 2024 Goals: NextJS 14, AWS cloud practitioner, Backend + SQL database
 - ⚡ Fun fact: I love to take picture, workout, and surf :surfer:
 
