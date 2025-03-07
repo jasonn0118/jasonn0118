@@ -3,7 +3,7 @@
 ## I'm a Software Developer!!
 
 - 🔭 I'm a passionate and excited to solve problem. 
-- 🥅 2025 Goals: Update a portfolio, AWS cloud practitioner, Backend + SQL database
+- 🥅 2025 Goals: Update a portfolio, AWS cloud practitioner, Backend + SQL database, LLM fundamental
 - ⚡ Fun fact: I love to take picture, workout, and surf :surfer:
 
 
