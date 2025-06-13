@@ -45,11 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonn0118&show_icons=true&theme=transparent)
-
----
-
 > ⚡ 2025 Goals: Polish portfolio, earn AWS Cloud Practitioner cert, deepen LLM fundamentals.
 
 ---
