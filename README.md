@@ -1,28 +1,55 @@
-### Hi there, I'm Jason👋
+# 👋 Hi, I’m Jason (Jeamin Shin)
 
-## I'm a Software Developer!!
+### 🚀 Full‑Stack Developer | MVP Specialist | AI‑Enthusiast
 
-- 🔭 I'm a passionate and excited to solve problem. 
-- 🥅 2025 Goals: Update a portfolio, AWS cloud practitioner, Backend + SQL database, LLM fundamental
-- ⚡ Fun fact: I love to take picture, workout, and surf :surfer:
+---
 
+## 👨‍💻 About Me
+- Backend-focused engineer with expertise in **NestJS**, **PostgreSQL**, and **TypeORM**
+- Previously worked with **Ruby on Rails** for production-grade web applications
+- Rapid MVP builder: scalable, clean architecture & atomic data flows
+- Exploring **AI/LLM-powered pipelines** (LangChain, embeddings, context retrieval)
+- Passionate about delivering tangible results—shipping production‑ready features
+- Based in **Vancouver, BC** | Open to collaborations and hackathons
 
-### Connect with me:
+---
 
-[<img align="left" alt="Jasonn0118 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+## 🔭 Current Projects
+- [**IntelliStock**](https://www.intellistock.io/): stock valuation insights via custom backend + Next.js  
+- Refactoring a **local company website** with modern frontend architecture and scalable backend logic  
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,rails,nestjs,dotnet,postgres,mongodb,netlify,aws,redis,sentry )](https://skillicons.dev)
+---
 
-<br />
-<br />
+## 🛠️ Tech Stack
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+**Backend**: NestJS • TypeORM • PostgreSQL • Ruby on Rails  
+**Frontend**: Next.js (App Router) • React • Vercel deployment  
+**Full Base**: Supabase (Auth, Storage, RLS-secured DB)  
+**AI**: LangChain • OpenAI Embeddings • Retrieval-Augmented Generation  
+**Dev Tools**: Git • GitHub Actions • Docker • Notion • Figma  
 
-  [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonn0118&count_private=true&show_icons=true&theme=radical)](https://github.com/jasonn0118)
+---
 
-</details>
+## 🌱 Focus Areas
+- Designing **atomic and composable backend services**
+- Integrating **Supabase-powered auth & storage**
+- Exploring **LLM pipelines** to speed up dev workflows (RAG, embeddings)
+- Building clean, modular MVPs with an eye toward real-world adoption
 
-[linkedin]: https://linkedin.com/in/jasonshin0118
+---
+
+## 📫 Get In Touch
+- [LinkedIn](https://linkedin.com/in/jasonshin0118)  
+- 📧 Email: [tlswoals2006@gmail.com](mailto:tlswoals2006@gmail.com)  
+- Based in Vancouver — available for remote / flexible collaboration
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonn0118&show_icons=true&theme=transparent)
+
+---
+
+> ⚡ 2025 Goals: Polish portfolio, earn AWS Cloud Practitioner cert, deepen LLM fundamentals.
+
+---
