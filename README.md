@@ -22,11 +22,11 @@
 
 ## 🛠️ Tech Stack
 
-**Backend**: NestJS • TypeORM • PostgreSQL • Ruby on Rails  
-**Frontend**: Next.js (App Router) • React • Vercel deployment  
-**Full Base**: Supabase (Auth, Storage, RLS-secured DB)  
-**AI**: LangChain • OpenAI Embeddings • Retrieval-Augmented Generation  
-**Dev Tools**: Git • GitHub Actions • Docker • Notion • Figma  
+- **Backend**: NestJS • TypeORM • PostgreSQL • Ruby on Rails  
+- **Frontend**: Next.js (App Router) • React • Vercel deployment  
+- **Full Base**: Supabase (Auth, Storage, RLS-secured DB)  
+- **AI**: LangChain • OpenAI Embeddings • Retrieval-Augmented Generation  
+- **Dev Tools**: Git • GitHub Actions • Docker • Notion • Figma  
 
 ---
 
