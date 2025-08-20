@@ -15,7 +15,8 @@
 ---
 
 ## 🔭 Current Projects
-- [**IntelliStock**](https://www.intellistock.io/): stock valuation insights via custom backend + Next.js  
+- [**IntelliStock**](https://www.intellistock.io/): stock valuation insights via custom backend + Next.js
+- [Beezly.app](https://www.beezly.app) — Every scan makes the hive smarter. Beezly helps you compare prices, track your spending, and discover the best local deals by turning everyday receipts and barcodes into real-time, crowdsourced data intelligence
 - Refactoring a **local company website** with modern frontend architecture and scalable backend logic  
 
 ---
