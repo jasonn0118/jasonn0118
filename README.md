@@ -46,6 +46,14 @@
 
 ---
 
-> ⚡ 2025 Goals: Polish portfolio, earn AWS Cloud Practitioner cert, deepen LLM fundamentals.
+## 🎯 Goals
+
+### ✅ 2025 (Completed 🎉)
+- Polished portfolio with real-world projects  
+- Earned **AWS Cloud Practitioner Certification**  
+- Deepened **LLM fundamentals** (LangChain, embeddings, RAG pipelines)  
+
+### 🚀 2025 (In Progress)
+- Earn **AWS Developer Associate Certification** (by end of 2025) 
 
 ---
