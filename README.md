@@ -27,7 +27,7 @@
 - [**Ollim**](https://ollim.app) — AI personal trainer for iPhone & Apple Watch, [live on the App Store](https://apps.apple.com/app/id6788250084). Native SwiftUI client over a FastAPI backend that owns the training math — adaptive programming, effort scoring, and nutrition coaching
 - [**IntelliStock**](https://intellistock.ca) — AI-driven stock research. A streaming RAG + tool-calling chat agent on a NestJS · PostgreSQL/pgvector · Redis backend, fed by a daily market-data pipeline, with a Next.js 15 frontend
 - [Beezly.app](https://www.beezly.app) — Every scan makes the hive smarter. Beezly helps you compare prices, track your spending, and discover the best local deals by turning everyday receipts and barcodes into real-time, crowdsourced data intelligence
-- [**hoppit**](https://hoppit.app) — Social habit-challenge app: daily 5-second photo/video check-ins with friends, plus streaks and pokes. Expo (React Native) client on a Node/TypeScript API (Hono · Drizzle · PostgreSQL)
+- [**Hoppit**](https://hoppit.app) — Social habit-challenge app, [live on the App Store](https://apps.apple.com/app/id6792256368). Daily 5-second photo/video check-ins with friends, plus streaks and pokes. Expo (React Native) client on a Node/TypeScript API (Hono · Drizzle · PostgreSQL)
 
 ---
 
